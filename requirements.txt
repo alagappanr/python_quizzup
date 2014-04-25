@@ -1,0 +1,7 @@
+Django==1.6.3
+requests 
+oauthlib
+requests-oauthlib
+python-openid
+django-allauth
+MySQL-python
